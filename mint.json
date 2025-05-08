@@ -1,0 +1,79 @@
+{
+	"$schema": "https://mintlify.com/schema.json",
+	"name": "Skelsa",
+	"logo": {
+		"dark": "/logo/sanketh-dark.png",
+		"light": "/logo/sanketh.png"
+	},
+	"modeToggle": {
+		"default": "light",
+		"isHidden": false
+	},
+	"favicon": "/favicon.svg",
+	"colors": {
+		"primary": "#FF0000",
+		"light": "#07C983",
+		"dark": "#0D9373",
+		"anchors": {
+			"from": "#0D9373",
+			"to": "#07C983"
+		}
+	},
+	"navigation": [
+		{
+			"group": "Genesis",
+			"pages": [
+				"Introduction"
+			]
+		},
+		{
+			"group": "Finance",
+			"pages": [
+				"finance/finance",
+				"finance/model_framework"
+			]
+		},
+		{
+			"group": "Operations",
+			"pages": [
+				"ops/operating_manual"
+			]
+		},
+		{
+			"group": "Sales and Marketing",
+			"pages": [
+				"sales/skelsa_sales_strategy",
+				"sales/sales_reporting",
+				"sales/skelsa_new_sales_approval_template",
+				"sales/skelsa_monthly_churn_reporting_dashboard",
+				"sales/onboarding",
+				"sales/offboarding"
+			]
+		},
+		{
+			"group": "Legal",
+			"pages": [
+				"legal/skelsa_legal_checklist",
+				"legal/legal",
+				"legal/broker_terms",
+				"legal/term_sheet",
+				"legal/eoi_template",
+				"legal/esop_award",
+				"legal/fitouts_agreement",
+				"legal/lease_deed",
+				"legal/letter_of_intent",
+				"legal/non_disclosure_agreement",
+				"legal/possession_letter",
+				"legal/property_owner_noc",
+				"legal/skelsa_enterprise_membership_agreement",
+				"legal/skelsa_individual_membership_agreement",
+				"legal/term_sheet_template"
+			]
+		}
+	],
+	"footerSocials": {
+		"twitter": "https://twitter.com/sankethchebbi",
+		"github": "https://github.com/sankethchebbi",
+		"linkedin": "https://www.linkedin.com/in/sankethchebbi"
+	}
+}
