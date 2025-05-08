@@ -1,5 +1,6 @@
 {
 	"$schema": "https://mintlify.com/schema.json",
+	"theme": "mint",
 	"name": "Skelsa",
 	"logo": {
 		"dark": "/logo/sanketh-dark.png",
